@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af0c0002.css",
+    "main.js": "/static/js/main.300b345e.js",
+    "static/js/845.8fa8953e.chunk.js": "/static/js/845.8fa8953e.chunk.js",
+    "static/media/back.jpg": "/static/media/back.eab61fe46ca6d3c24ba7.jpg",
+    "static/media/alah.mp3": "/static/media/alah.4ba97045050574df3cfb.mp3",
+    "index.html": "/index.html",
+    "main.af0c0002.css.map": "/static/css/main.af0c0002.css.map",
+    "main.300b345e.js.map": "/static/js/main.300b345e.js.map",
+    "845.8fa8953e.chunk.js.map": "/static/js/845.8fa8953e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af0c0002.css",
+    "static/js/main.300b345e.js"
+  ]
+}
